@@ -40,7 +40,7 @@ This project uses GitHub Pages to host a static website directly from this repos
 
 ## 🔗 Live Demo
 
-Visit the live demo at: https://[your-username].github.io/example-github-pages/
+Visit the live demo at: https://mrtoronto.github.io/example-github-pages/
 
 ## 📄 License
 
