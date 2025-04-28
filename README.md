@@ -31,6 +31,9 @@ This project uses GitHub Pages to host a static website directly from this repos
 4. Make changes to the HTML, CSS, or JavaScript files
 5. Push to main, and your site will automatically deploy!
 
+![image](https://github.com/user-attachments/assets/09f2a0e2-1e19-4323-99f9-50f8060c5789)
+
+
 ## 📝 File Structure
 
 - `index.html` - Main HTML file
