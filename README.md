@@ -1,6 +1,6 @@
 # GitHub Pages Example
 
-This repository demonstrates how to host a static website using GitHub Pages with automated deployment through GitHub Actions.
+This repository demonstrates how to host a static website using GitHub Pages with automated deployment through GitHub Actions!
 
 ## 🌟 Features
 
