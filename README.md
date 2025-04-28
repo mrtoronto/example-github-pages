@@ -11,11 +11,11 @@ This repository demonstrates how to host a static website using GitHub Pages wit
 
 ## 🚀 How It Works
 
-This project uses GitHub Pages to host a static website directly from this repository. When changes are pushed to the `master` branch, GitHub Actions automatically deploys the updates to the live site.
+This project uses GitHub Pages to host a static website directly from this repository. When changes are pushed to the `main` branch, GitHub Actions automatically deploys the updates to the live site.
 
 ### The Deployment Process
 
-1. Changes are pushed to the `master` branch
+1. Changes are pushed to the `main` branch
 2. GitHub Actions workflow is triggered
 3. The workflow:
    - Checks out the code
@@ -29,7 +29,7 @@ This project uses GitHub Pages to host a static website directly from this repos
 2. Go to your repository settings
 3. Under "Pages", select "GitHub Actions" as the source
 4. Make changes to the HTML, CSS, or JavaScript files
-5. Push to master, and your site will automatically deploy!
+5. Push to main, and your site will automatically deploy!
 
 ## 📝 File Structure
 
